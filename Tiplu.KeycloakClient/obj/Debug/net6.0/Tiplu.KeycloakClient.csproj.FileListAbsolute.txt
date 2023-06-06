@@ -1,0 +1,12 @@
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\bin\Debug\net6.0\Tiplu.KeycloakClient.deps.json
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\bin\Debug\net6.0\Tiplu.KeycloakClient.dll
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\bin\Debug\net6.0\Tiplu.KeycloakClient.pdb
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.csproj.AssemblyReference.cache
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.AssemblyInfoInputs.cache
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.AssemblyInfo.cs
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.csproj.CoreCompileInputs.cache
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.dll
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\refint\Tiplu.KeycloakClient.dll
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\Tiplu.KeycloakClient.pdb
+C:\Repo\Tiplu.KeycloakClient\Tiplu.KeycloakClient\obj\Debug\net6.0\ref\Tiplu.KeycloakClient.dll

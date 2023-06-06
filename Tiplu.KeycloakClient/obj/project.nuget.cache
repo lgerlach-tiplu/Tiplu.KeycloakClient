@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrImEXDHWM9cYxxpSzvSW+8oNGyBRPVe/pDepfuWAIV0O8dp3qkes5r5gbbhz9zH9HM7Ui/GKAmFcgniMp//BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\Tiplu.KeycloakClient\\Tiplu.KeycloakClient\\Tiplu.KeycloakClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LucasGerlach\\.nuget\\packages\\flurl\\3.0.6\\flurl.3.0.6.nupkg.sha512",
+    "C:\\Users\\LucasGerlach\\.nuget\\packages\\flurl.http\\3.2.4\\flurl.http.3.2.4.nupkg.sha512",
+    "C:\\Users\\LucasGerlach\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\LucasGerlach\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\LucasGerlach\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\LucasGerlach\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
